@@ -29,10 +29,9 @@ The Geneva mechanism consists of the following main components:
 
 
 ## Demonstration Video
-
-  <p align="center">
-    <img src="docs/geneva_mechanism.mp4" alt="Balancing Robot" width="15%">
-  </p>
-
-
-
+- ##### Watch the test of the project by clicking the button below.
+<p align="center">
+  <a href="https://www.veed.io/view/dd4f6eea-b291-4607-95db-82e2b1daa369">
+    <img src="https://img.shields.io/badge/▶%20Watch-Demo%20Video-red?style=for-the-badge" alt="Watch Demo">
+  </a>
+</p>
