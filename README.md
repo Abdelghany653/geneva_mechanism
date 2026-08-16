@@ -1,7 +1,7 @@
 # Geneva Mechanism
 
 <p align="center">
-  <img src="docs/balancing_robot.jpeg" alt="balancing robot" width="30%">
+  <img src="docs/geneva_mechanism.png" alt="Geneva" width="30%">
 </p>
 
 ## Abstract
@@ -20,7 +20,7 @@ The Geneva mechanism consists of the following main components:
 **Base/Frame:** Supports and maintains the alignment of the mechanism components.
 
 <p align="center">
-  <img src="docs/balancing_robot.jpeg" alt="balancing robot" width="30%">
+  <img src="docs/sketch.png" alt="Geneva" width="30%">
 </p>
 
 
@@ -37,7 +37,7 @@ The Geneva mechanism consists of the following main components:
 ## Demonstration Video
 
   <p align="center">
-    <img src="docs/Balancing_robot.gif" alt="Balancing Robot" width="15%">
+    <img src="docs/geneva_mechanism.mp4" alt="Balancing Robot" width="15%">
   </p>
 
 
