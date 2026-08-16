@@ -5,31 +5,27 @@ This project presents the 3D design, assembly, and motion simulation of a five-s
 <p align="center">
   <img src="docs/geneva_mechanism.png" alt="Geneva" width="30%">
 </p>
----
+
 
 ## Mechanical System
 The Geneva mechanism consists of the following main components:
-**Driving Wheel:** Provides continuous rotary motion and carries the driving pin.
-**Geneva Wheel:** Converts the continuous input motion into intermittent rotary motion.
-**Driving Pin:** Engages with the Geneva wheel slots and transfers motion.
-**Locking Disc:** Prevents unwanted rotation of the Geneva wheel during the dwell period.
-**Shafts:** Support and transmit rotational motion between the components.
-**Bearings:** Support the shafts and reduce friction during rotation.
-**Base/Frame:** Supports and maintains the alignment of the mechanism components.
+-- **Driving Wheel:** Provides continuous rotary motion and carries the driving pin.
+-- **Geneva Wheel:** Converts the continuous input motion into intermittent rotary motion.
+-- **Driving Pin:** Engages with the Geneva wheel slots and transfers motion.
+-- **Locking Disc:** Prevents unwanted rotation of the Geneva wheel during the dwell period.
+-- **Shafts:** Support and transmit rotational motion between the components.
+-- **Bearings:** Support the shafts and reduce friction during rotation.
+-- **Base/Frame:** Supports and maintains the alignment of the mechanism components.
 
 <p align="center">
   <img src="docs/sketch.png" alt="Geneva" width="40%">
 </p>
-
-
 
 ## Electrical System
 - Arduino UNO
 - L298N Motor Driver 
 - DC  Motors
 - Battery
-
-
 
 
 ## Demonstration Video
