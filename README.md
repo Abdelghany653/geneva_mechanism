@@ -16,7 +16,17 @@ The Geneva mechanism consists of the following main components:
 - **Shafts:** Support the rotating components and transmit rotational motion.
 - **Bearings:** Support the shafts and reduce friction during rotation.
 - **Base/Frame:** Supports the mechanism and maintains proper alignment between its components.
+## Design Geometry
 
+The mechanism geometry was developed in SolidWorks using a fully constrained parametric sketch. The design defines the center-to-center distance, wheel diameters, slot geometry, and driving-pin position to ensure proper engagement between the driving wheel and Geneva wheel.
+
+The five-slot Geneva wheel provides an indexing angle of:
+
+$$
+\theta_{index} = \frac{360^\circ}{5} = 72^\circ
+$$
+
+The geometric relationships were verified during assembly and motion simulation to ensure smooth engagement and correct intermittent motion.
 <p align="center">
   <img src="docs/sketch.png" alt="Geneva" width="40%">
 </p>
